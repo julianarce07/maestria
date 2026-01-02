@@ -5,7 +5,7 @@
     "ranking": 1 
   },
   { 
-    "tienda": "ebay.com", 
+    "tienda": "samsantech.com", 
     "ventas": 4200, 
     "ranking": 2 
   },
@@ -20,17 +20,17 @@
     "ranking": 4 
   },
   { 
-    "tienda": "etsy.com", 
+    "tienda": "temu.com", 
     "ventas": 3000, 
     "ranking": 5 
   },
   { 
-    "tienda": "shopify.com", 
+    "tienda": "shopping.com", 
     "ventas": 2600, 
     "ranking": 6 
   },
   { 
-    "tienda": "rakuten.com", 
+    "tienda": "cameo.com", 
     "ventas": 2200, 
     "ranking": 7 
   },
