@@ -1,11 +1,11 @@
 [
   { "alumno": "Julian", "nota": 9.5, "ranking": 1 },
   { "alumno": "Dustin", "nota": 8.7, "ranking": 2 },
-  { "alumno": "Juliana", "nota": 7.9, "ranking": 3 },
+  { "alumno": "Robin", "nota": 7.9, "ranking": 3 },
   { "alumno": "Nancy", "nota": 6.8, "ranking": 4 },
   { "alumno": "Mike", "nota": 6.2, "ranking": 5 },
   { "alumno": "Will", "nota": 5.5, "ranking": 6 },
   { "alumno": "Max", "nota": 4.8, "ranking": 7 },
-  { "alumno": "Sofía", "nota": 3.9, "ranking": 8 },
+  { "alumno": "Lukas", "nota": 3.9, "ranking": 8 },
   { "alumno": "Vecna", "nota": 2.5, "ranking": 9 }
 ]
