@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    { "id": "Francia", "group": 1 },
+    { "id": "Alemania", "group": 1 }, 
+    { "id": "Italia", "group": 1 },
+    { "id": "España", "group": 1 },
+
+    { "id": "Otan", "group": 2 },
+    { "id": "UE", "group": 2 },
+  ],
+
+  "links": [
+    { "source": "Francia", "target": "Otan" },
+    { "source": "Francia", "target": "UE" },
+
+    { "source": "Alemania", "target": "Otan" },
+    
+    { "source": "Italia", "target": "Otan" },
+    { "source": "Italia", "target": "UE" },
+
+    { "source": "España", "target": "Otan" },
+    { "source": "España", "target": "UE" }
+  ]
+}
