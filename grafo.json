@@ -6,7 +6,7 @@
     { "id": "Avicii", "group": 1 },
 
     { "id": "Matemáticas", "group": 2 },
-    { "id": "Fisica", "group": 2 },
+    { "id": "Química", "group": 2 },
 
     { "id": "Física", "group": 3 },
     { "id": "Artistica", "group": 3 },
@@ -21,14 +21,14 @@
 
     { "source": "Julian", "target": "Matemáticas" },
     { "source": "Julian", "target": "Artistica" },
-    { "source": "Julian", "target": "Física" },
+    { "source": "Julian", "target": "Química" },
 
     { "source": "Karol", "target": "Física" },
     { "source": "Karol", "target": "Ingles" },
     { "source": "Karol", "target": "Matemáticas" },
 
     { "source": "Avicii", "target": "Artistica" },
-    { "source": "Avicii", "target": "Física" },
+    { "source": "Avicii", "target": "Química" },
     { "source": "Avicii", "target": "Matemáticas" }
   ]
 }
