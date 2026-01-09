@@ -17,15 +17,15 @@
   "links": [
     { "source": "Mariah", "target": "Matemáticas" },
     { "source": "Mariah", "target": "Física" },
-    { "source": "Mariah", "target": "Ingles" },
+    { "source": "Mariah", "target": "Artistica" },
 
     { "source": "Julian", "target": "Matemáticas" },
-    { "source": "Julian", "target": "Artistica" },
+    { "source": "Julian", "target": "Ingles" },
     { "source": "Julian", "target": "Química" },
 
     { "source": "Karol", "target": "Física" },
     { "source": "Karol", "target": "Ingles" },
-    { "source": "Karol", "target": "Matemáticas" },
+    { "source": "Karol", "target": "Artistica" },
 
     { "source": "Avicii", "target": "Artistica" },
     { "source": "Avicii", "target": "Química" },
